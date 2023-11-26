@@ -37,10 +37,4 @@ window.addEventListener("focus", () =>{
 
 Contribuições são bem-vindas! Se você encontrar problemas ou tiver sugestões para melhorias, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
 
-## Licença
-
-Este projeto é licenciado sob a [MIT License](LICENSE).
-
----
-
 Esperamos que este script torne a experiência do usuário em sua página mais dinâmica e atraente. Se você tiver alguma dúvida ou precisar de suporte, sinta-se à vontade para entrar em contato.
